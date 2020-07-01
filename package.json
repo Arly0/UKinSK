@@ -1,0 +1,12 @@
+{
+  "name": "ukinsk",
+  "version": "1.0",
+  "description": "Forum UKinSK",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/Arly0/UKinSK",
+    "type": "git"
+  },
+  "author": "Arly0",
+  "license": "MIT"
+}
